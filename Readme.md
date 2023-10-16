@@ -1,3 +1,12 @@
-<div align="center">
-  <img width="100" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3J5bzE4dWwycDJkb29pdTlvMGVybTRzenNweXNxZnJ1M3dpZWdxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif">
-</div>
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Alexandr</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">:shipit: Frontent developer from Russia :ru:</h3>
+<h2>My skills</h2>
+
+- react
+- javascript
+- html
+- css / sass
+- typescript
+- bootstrap
+- redux
