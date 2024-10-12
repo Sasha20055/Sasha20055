@@ -4,9 +4,10 @@
 <h2>My skills</h2>
 
 - react
-- javascript
+- javascript, typescript
 - html
 - css / sass
-- typescript
-- bootstrap
+- bootstrap, material UI
 - redux
+- CI/CD
+- Git Flow
