@@ -4,6 +4,7 @@
 <h2>My skills</h2>
 
 - react
+- next js
 - javascript, typescript
 - html
 - css / sass
