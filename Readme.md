@@ -5,9 +5,11 @@
 
 - react
 - next js
+- express
+- mongoDb
+- Docker
 - javascript, typescript
-- html
-- css / sass
+- html / css
 - bootstrap, material UI
 - redux
 - CI/CD
