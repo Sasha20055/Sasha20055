@@ -14,3 +14,6 @@
 - redux
 - CI/CD
 - Git Flow
+
+
+![Codewars](https://www.codewars.com/users/Sasha20055/badges/small)
