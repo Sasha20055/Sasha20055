@@ -3,15 +3,19 @@
 <h3 align="center">:shipit: Frontent developer from Russia :ru:</h3>
 <h2>My skills</h2>
 
+frontend:
 - react
 - next js
+- TS
+- bootstrap, material UI
+- redux, zustand, mobx
+
+Backend:
 - express
 - mongoDb
+
+Also:
 - Docker
-- javascript, typescript
-- html / css
-- bootstrap, material UI
-- redux
 - CI/CD
 - Git Flow
 
