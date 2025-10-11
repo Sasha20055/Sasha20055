@@ -14,7 +14,6 @@ Backend:
 
 Also:
 - Docker
-- CI/CD
 - Git Flow
 
 
