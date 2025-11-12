@@ -10,6 +10,8 @@ frontend:
 
 Backend:
 - express
+- elyzia
+- bun, node
 - mongoDb
 
 Also:
